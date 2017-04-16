@@ -8,14 +8,91 @@
  Version:      1.0.0
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  accelerate-theme-child
-*/
-@import url("../accelerate-theme/style.css");
-.home-page {
-    background: url("img/taxi-photo.jpg") no-repeat scroll left center / cover rgba(0, 0, 0, 0);
-}
-#masthead {
-    background: none repeat scroll 0 0 #45ac9d;
-}
-.button {
-    background: none repeat scroll 0 0 #45ac9d;
-    }
+ */
+ @import url("../accelerate-theme/style.css");
+ .home-page {
+ 	background: url("img/taxi-photo.jpg") no-repeat scroll left center / cover rgba(0, 0, 0, 0);
+ }
+ #masthead {
+ 	background: none repeat scroll 0 0 #45ac9d;
+ }
+ .button {
+ 	background: none repeat scroll 0 0 #45ac9d;
+ }
+/* #masthead nav ul li {
+ 	float: left;
+ 	margin: 0 10px;
+ 	}*/
+ 	/* Blog Post on Homepage */
+ 	.recent-posts{
+ 		overflow: hidden;
+ 	}
+ 	.blog-post {
+ 		width: 50%;
+ 	}
+ 	.blog-post h4 {
+ 		color: #a6a6a6;
+ 		font-family: 'Montserrat';
+ 		font-size: 16px;
+ 		text-transform: uppercase;
+ 	}
+ 	.blog-post h2 {
+ 		font-family: 'Montserrat';
+ 		font-size: 24px;
+ 		font-weight: bold;
+ 	}
+ 	.blog-post .read-more-link {
+ 		color: #45ac9d;
+ 		font-family: 'Montserrat';
+ 		font-size: 24px;
+ 		font-weight: bold;
+ 		text-transform: uppercase;
+ 	}
+ 	/*---------- Case Studies ----------*/
+ 	.case-study {
+ 		margin: 40px 0 0;
+ 	}
+ 	.case-study-sidebar {
+ 		float: left;
+ 		margin: 0 40px 0 0;
+ 		width: 314px;
+ 	}
+ 	.case-study-images {
+ 		float: left;
+ 		margin-top: 36px;
+ 		width: 606px;
+ 	}
+ 	.case-study-images img {
+ 		border: 1px solid #ddd;
+ 		display: block;
+ 		margin-bottom: 50px;
+ 	}
+ 	.featured-work h4 {
+ 		color: #222;
+ 		font-family: 'Montserrat';
+ 		font-size: 16px;
+ 		font-weight: normal;
+ 		text-align: center;
+ 		text-transform: uppercase;
+ 	}
+ 	.homepage-featured-work li {
+ 		list-style-type: none;
+ 		padding: 0;
+ 		margin: 0;
+ 	}
+ 	.homepage-featured-work {
+ 		margin: 0;
+ 	}
+ 	h1,
+ 	h3,
+ 	h4,
+ 	h6 {
+ 		font-weight: 500;
+ 	}
+ 	h2,
+ 	h5 {
+ 		color: #3b3b3b;
+ 	}	
+ 	.case-study p a {
+ 		color: #45ac7d;
+ 	}
