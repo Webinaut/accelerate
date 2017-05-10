@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Sharing (by Danny)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-03 02:57+0000\n"
+"PO-Revision-Date: 2017-01-03 03:19+0000\n"
+"Last-Translator: ziusurda <ipnoguida@yahoo.it>\n"
+"Language-Team: Italian\n"
+"Language: it-IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/template-functions.php:23
+msgid "on Twitter"
+msgstr "su Twitter"
+
+#: includes/template-functions.php:24
+msgid "on Facebook"
+msgstr "su Facebook"
+
+#: includes/template-functions.php:25
+msgid "on Google+"
+msgstr "su Google+"
+
+#: includes/views/settings-page.php:25
+msgid "Text before links"
+msgstr "Testo prima del link"
+
+#: includes/views/settings-page.php:29
+msgid "The text to show before the sharing links."
+msgstr "Il testo da mostrare prima dei link di condivisione,"
+
+#: includes/views/settings-page.php:35
+msgid "Automatically add sharing links?"
+msgstr "Aggiungere automaticamente i link di condivisione?"
+
+#: includes/views/settings-page.php:42
+#, php-format
+msgid " Auto add to %s"
+msgstr "Aggiungi automaticamente a %s"
+
+#: includes/views/settings-page.php:48
+msgid ""
+"Automatically adds the sharing links to the end of the selected post types."
+msgstr ""
+"Aggiungi automaticamente i links di condivisione alle fine del tipo di post "
+"selezionato."
+
+#: includes/views/settings-page.php:54
+msgid "Load Icon CSS?"
+msgstr "Caricare icona CSS?"
+
+#: includes/views/settings-page.php:60
+msgid "Adds simple but pretty icons to the sharing links."
+msgstr "Aggiunge icone semplici ma belle ai links di condivisione."
+
+#: includes/views/settings-page.php:66
+msgid "Icon Size"
+msgstr "Dimensione icona"
+
+#: includes/views/settings-page.php:78
+msgid "Load Pop-Up JS?"
+msgstr "Carica Pop-up JS?"
+
+#: includes/views/settings-page.php:84
+msgid ""
+"A small JavaScript file of just 600 bytes so people won't have to leave your "
+"website to share."
+msgstr ""
+"Un piccolo file JavaScript di soli 600 bytes così le persone non dovranno "
+"lasciare il tuo sito per condividere."
+
+#: includes/views/settings-page.php:90
+msgid "Twitter Username"
+msgstr "Nome utente Twitter"
+
+#: includes/views/settings-page.php:94
+msgid "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+msgstr "Selezionalo se vuoi aggiungere \"via @yourTwitterUsername\" ai tweets."
+
+#: includes/views/settings-page.php:112
+msgid "Donate $10, $20 or $50"
+msgstr "Donate $10, $20 o $50"
+
+#: includes/views/settings-page.php:113
+msgid ""
+"If you like this plugin, consider supporting it by donating a token of your "
+"appreciation."
+msgstr ""
+"Se ti piace questo plugin, considera di supportarlo donando un gettone per "
+"il tuo apprezzamento."
+
+#: includes/views/settings-page.php:117
+msgid "Some other ways to support this plugin"
+msgstr "Altri modi di supportare il plugin"
+
+#: includes/views/settings-page.php:119
+#, php-format
+msgid "Leave a %s review on WordPress.org"
+msgstr "Lascia una recensione %s  su  WordPress.org"
+
+#: includes/views/settings-page.php:121
+msgid "Vote \"works\" on the WordPress.org plugin page"
+msgstr "Vota \"works\" sulla pagina dei plugin di  WordPress.org"
+
+#: includes/views/settings-page.php:126
+msgid "Looking for support?"
+msgstr "Cerchi supporto?"
+
+#: includes/views/settings-page.php:127
+#, php-format
+msgid "Please use the %splugin support forums%s on WordPress.org."
+msgstr "Per cortesia, usa il forum di supporto %splugin su  WordPress.org."
+
+#. Name of the plugin
+msgid "Social Sharing (by Danny)"
+msgstr "Social Sharing (by Danny)"
+
+#. Description of the plugin
+msgid "Adds super lightweight (no-scripts) social share buttons to your posts."
+msgstr ""
+"Aggiunge un bottone sociale di condivisione super leggero (no-script)  ai "
+"tuoi posts."
+
+#. URI of the plugin
+msgid "https://dannyvankooten.com/wordpress-plugins/social-sharing-by-danny/"
+msgstr "https://dannyvankooten.com/wordpress-plugins/social-sharing-by-danny/"
+
+#. Author of the plugin
+msgid "ibericode"
+msgstr "ibericode"
+
+#. Author URI of the plugin
+msgid "https://dannyvankooten.com/"
+msgstr "https://dannyvankooten.com/"

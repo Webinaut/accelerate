@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Sharing by Danny\n"
+"POT-Creation-Date: 2013-11-20 21:50+0100\n"
+"PO-Revision-Date: 2014-01-30 20:47-0300\n"
+"Last-Translator: Luciano A. Ferrer <laferrer@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././includes/class-admin.php:36 .././includes/views/settings-page.php:11
+msgid "Settings"
+msgstr "Configuración"
+
+#: .././includes/template-functions.php:29
+msgid "on Twitter"
+msgstr "en Twitter"
+
+#: .././includes/template-functions.php:33
+msgid "on Facebook"
+msgstr "en Facebook"
+
+#: .././includes/template-functions.php:37
+msgid "on Google+"
+msgstr "en Google+"
+
+#: .././includes/views/settings-page.php:17
+msgid "Text before links"
+msgstr "Texto antes de enlaces"
+
+#: .././includes/views/settings-page.php:21
+msgid "The text to show before the sharing links."
+msgstr "El texto a mostrar antes de los enlaces para compartir"
+
+#: .././includes/views/settings-page.php:27
+msgid "Auto-add sharing links?"
+msgstr "¿Agregar automáticamente los enlaces para compartir?"
+
+#: .././includes/views/settings-page.php:33
+msgid "Automatically adds the sharing links to the end of posts."
+msgstr ""
+"Agrega automáticamente los enlaces para compartir al final de los artículos."
+
+#: .././includes/views/settings-page.php:39
+msgid "Load Icon CSS?"
+msgstr "¿Cargar iconos CSS?"
+
+#: .././includes/views/settings-page.php:45
+msgid "Adds simple but pretty icons to the sharing links."
+msgstr "Agrega iconos simples pero lindos a los enlaces para compartir."
+
+#: .././includes/views/settings-page.php:51
+msgid "Icon Size"
+msgstr "Tamaño del icono"
+
+#: .././includes/views/settings-page.php:63
+msgid "Load Pop-Up JS?"
+msgstr "¿Cargar popup JS?"
+
+#: .././includes/views/settings-page.php:75
+msgid "Twitter Username"
+msgstr "Nombre de usuario en twitter"
+
+#: .././includes/views/settings-page.php:79
+msgid "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+msgstr "Configure si quiere agregar \"via @suNombreDeUsuario\" a los tuits."

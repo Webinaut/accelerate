@@ -930,7 +930,7 @@ msgstr "Universal time (%1$s) is %2$s."
 msgid "There is a pending change of the admin email to %s."
 msgstr "There is a pending change of the admin email to %s."
 
-#: wp-admin/install.php:390
+#: wp-admin/install.php:376
 msgid "WordPress has been installed. Thank you, and enjoy!"
 msgstr "WordPress has been installed. Thank you, and enjoy!"
 
@@ -3724,19 +3724,19 @@ msgstr "Menus can be displayed in locations defined by your theme, even used in 
 msgid "Your theme does not natively support menus, but you can use them in sidebars by adding a &#8220;Custom Menu&#8221; widget on the <a href=\"%s\">Widgets</a> screen."
 msgstr "Your theme does not natively support menus, but you can use them in sidebars by adding a &#8220;Custom Menu&#8221; widget on the <a href=\"%s\">Widgets</a> screen."
 
-#: wp-admin/install.php:369
+#: wp-admin/install.php:365
 msgid "Sorry, that isn&#8217;t a valid email address. Email addresses look like <code>username@example.com</code>."
 msgstr "Sorry, that isn&#8217;t a valid email address. Email addresses look like <code>username@example.com</code>."
 
-#: wp-admin/install.php:364
+#: wp-admin/install.php:361
 msgid "You must provide an email address."
 msgstr "You must provide an email address."
 
-#: wp-admin/install.php:359
+#: wp-admin/install.php:357
 msgid "Your passwords do not match. Please try again."
 msgstr "Your passwords do not match. Please try again."
 
-#: wp-admin/install.php:354
+#: wp-admin/install.php:353
 msgid "The username you provided has invalid characters."
 msgstr "The username you provided has invalid characters."
 
@@ -8750,7 +8750,7 @@ msgstr "Add New"
 msgid "Add New Link"
 msgstr "Add New Link"
 
-#: wp-admin/install.php:388
+#: wp-admin/install.php:374
 msgid "Success!"
 msgstr "Success!"
 

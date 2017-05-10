@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Sharing by Danny\n"
+"POT-Creation-Date: 2014-04-29 12:01+0100\n"
+"PO-Revision-Date: 2014-04-29 12:04+0100\n"
+"Last-Translator: Danny <hi@dannyvankooten.com>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././includes/class-admin.php:89 .././includes/views/settings-page.php:19
+msgid "Settings"
+msgstr "Instellingen"
+
+#: .././includes/template-functions.php:23
+msgid "on Twitter"
+msgstr "op Twitter"
+
+#: .././includes/template-functions.php:24
+msgid "on Facebook"
+msgstr "op Facebook"
+
+#: .././includes/template-functions.php:25
+msgid "on Google+"
+msgstr "op Google+"
+
+#: .././includes/views/settings-page.php:13
+msgid "by"
+msgstr "door"
+
+#: .././includes/views/settings-page.php:25
+msgid "Text before links"
+msgstr "Text vóór de links"
+
+#: .././includes/views/settings-page.php:29
+msgid "The text to show before the sharing links."
+msgstr "De tekst die voor de links om te delen verschijnt."
+
+#: .././includes/views/settings-page.php:35
+msgid "Automatically add sharing links?"
+msgstr "Links om te delen automatisch toevoegen?"
+
+#: .././includes/views/settings-page.php:42
+#, php-format
+msgid " Auto add to %s"
+msgstr "Voeg automatisch toe aan %s"
+
+#: .././includes/views/settings-page.php:48
+msgid ""
+"Automatically adds the sharing links to the end of the selected post types."
+msgstr ""
+"Voegt de links om te delen automatisch toe aan het einde van de "
+"geselecteerde berichttypes."
+
+#: .././includes/views/settings-page.php:54
+msgid "Load Icon CSS?"
+msgstr "Laad Iconen CSS?"
+
+#: .././includes/views/settings-page.php:57
+#: .././includes/views/settings-page.php:81
+msgid "Yes"
+msgstr "Ja"
+
+#: .././includes/views/settings-page.php:58
+#: .././includes/views/settings-page.php:82
+msgid "No"
+msgstr "Nee"
+
+#: .././includes/views/settings-page.php:60
+msgid "Adds simple but pretty icons to the sharing links."
+msgstr "Voegt simpele maar mooie icoontjes toe aan de links om te delen."
+
+#: .././includes/views/settings-page.php:66
+msgid "Icon Size"
+msgstr "Icoon Grootte"
+
+#: .././includes/views/settings-page.php:70
+msgid "Small"
+msgstr "Klein"
+
+#: .././includes/views/settings-page.php:70
+#: .././includes/views/settings-page.php:71
+msgid "pixels"
+msgstr "pixels"
+
+#: .././includes/views/settings-page.php:71
+msgid "Normal"
+msgstr "Normaal"
+
+#: .././includes/views/settings-page.php:78
+msgid "Load Pop-Up JS?"
+msgstr "Laad Pop-Up JavaScript?"
+
+#: .././includes/views/settings-page.php:84
+msgid ""
+"A small JavaScript file of just 600 bytes so people won't have to leave your "
+"website to share."
+msgstr ""
+"Een klein JavaScript bestandje van slechts 600 bytes zodat mensen je website "
+"niet hoeven te verlaten."
+
+#: .././includes/views/settings-page.php:90
+msgid "Twitter Username"
+msgstr "Twitter Gebruikersnaam"
+
+#: .././includes/views/settings-page.php:94
+msgid "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+msgstr ""
+"Vul dit veld als je \"via @jouwTwitterNaam\" aan tweets toegevoegd wilt "
+"hebben"
+
+#: .././includes/views/settings-page.php:112
+msgid "Donate $10, $20 or $50"
+msgstr "Doneer $10, $20 of $50"
+
+#: .././includes/views/settings-page.php:113
+msgid ""
+"If you like this plugin, consider supporting it by donating a token of your "
+"appreciation."
+msgstr ""
+"Waardeer je deze plugin? Overweeg dan een blijk van waardering te doneren."
+
+#: .././includes/views/settings-page.php:124
+msgid "Donate with PayPal"
+msgstr "Doneer met PayPal"
+
+#: .././includes/views/settings-page.php:129
+msgid "Some other ways to support this plugin"
+msgstr "Andere manieren om deze plugin te steunen"
+
+#: .././includes/views/settings-page.php:131
+#, php-format
+msgid "Leave a %s review on WordPress.org"
+msgstr "Laat een %s review achter op WordPress.org"
+
+#: .././includes/views/settings-page.php:132
+msgid "Link to the plugin page from your blog"
+msgstr "Link naar de plugin vanaf je website"
+
+#: .././includes/views/settings-page.php:134
+msgid "Vote \"works\" on the WordPress.org plugin page"
+msgstr "Geef \"works\" aan op de WordPress.org plugin pagina"
+
+#: .././includes/views/settings-page.php:139
+msgid "Looking for support?"
+msgstr "Support nodig?"
+
+#: .././includes/views/settings-page.php:140
+#, php-format
+msgid "Please use the %splugin support forums%s on WordPress.org."
+msgstr "Gebruik aub de %splugin support forums%s op WordPress.org"

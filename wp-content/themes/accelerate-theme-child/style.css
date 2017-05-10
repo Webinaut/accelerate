@@ -19,80 +19,161 @@
  .button {
  	background: none repeat scroll 0 0 #45ac9d;
  }
-/* #masthead nav ul li {
+ #masthead nav ul {
+ 	margin-bottom: 0;
+ }
+ #masthead nav ul li {
  	float: left;
  	margin: 0 10px;
- 	}*/
- 	/* Blog Post on Homepage */
- 	.recent-posts{
- 		overflow: hidden;
- 	}
- 	.blog-post {
- 		width: 50%;
- 	}
- 	.blog-post h4 {
- 		color: #a6a6a6;
- 		font-family: 'Montserrat';
- 		font-size: 16px;
- 		text-transform: uppercase;
- 	}
- 	.blog-post h2 {
- 		font-family: 'Montserrat';
- 		font-size: 24px;
- 		font-weight: bold;
- 	}
- 	.blog-post .read-more-link {
- 		color: #45ac9d;
- 		font-family: 'Montserrat';
- 		font-size: 24px;
- 		font-weight: bold;
- 		text-transform: uppercase;
- 	}
- 	/*---------- Case Studies ----------*/
- 	.case-study {
- 		margin: 40px 0 0;
- 	}
- 	.case-study-sidebar {
- 		float: left;
- 		margin: 0 40px 0 0;
- 		width: 314px;
- 	}
- 	.case-study-images {
- 		float: left;
- 		margin-top: 36px;
- 		width: 606px;
- 	}
- 	.case-study-images img {
- 		border: 1px solid #ddd;
- 		display: block;
- 		margin-bottom: 50px;
- 	}
- 	.featured-work h4 {
- 		color: #222;
- 		font-family: 'Montserrat';
- 		font-size: 16px;
- 		font-weight: normal;
- 		text-align: center;
- 		text-transform: uppercase;
- 	}
- 	.homepage-featured-work li {
- 		list-style-type: none;
- 		padding: 0;
- 		margin: 0;
- 	}
- 	.homepage-featured-work {
- 		margin: 0;
- 	}
- 	h1,
- 	h3,
- 	h4,
- 	h6 {
- 		font-weight: 500;
- 	}
- 	h2,
- 	h5 {
- 		color: #3b3b3b;
- 	}	
- 	.case-study p a {
- 		color: #45ac7d;
- 	}
+ }
+ /* Blog Post on Homepage */
+ .recent-posts{
+ 	overflow: hidden;
+ }
+ .blog-post {
+ 	float: left;
+ 	width: 70%;
+ }
+ .blog-post h4 {
+ 	color: #a6a6a6;
+ 	font-family: 'Montserrat';
+ 	font-size: 16px;
+ 	text-transform: uppercase;
+ }
+ .blog-post h2, #secondary h3 {
+ 	font-family: 'Montserrat';
+ 	font-size: 24px;
+ 	font-weight: bold;
+ }
+ .blog-post .read-more-link, #secondary .read-more-link {
+ 	color: #45ac9d;
+ 	font-family: 'Montserrat';
+ 	font-size: 16px;
+	text-transform: uppercase;
+ }
+ /*---------- Case Studies ----------*/
+ .case-study {
+ 	margin: 40px 0 0;
+ }
+ .case-study-sidebar {
+ 	float: left;
+ 	margin: 0 40px 0 0;
+ 	width: 314px;
+ }
+ .case-study-images {
+ 	float: left;
+ 	margin-top: 36px;
+ 	width: 606px;
+ }
+ .case-study-images img {
+ 	border: 1px solid #ddd;
+ 	display: block;
+ 	margin-bottom: 50px;
+ }
+ .featured-work h4 {
+ 	color: #222;
+ 	font-family: 'Montserrat';
+ 	font-size: 16px;
+ 	font-weight: normal;
+ 	text-align: center;
+ 	text-transform: uppercase;
+ }
+ .homepage-featured-work li {
+ 	list-style-type: none;
+ 	margin: 0;
+ 	padding: 0;
+ }
+ .homepage-featured-work {
+ 	margin: 0;
+ }
+ h1,
+ h3,
+ h4,
+ h6 {
+ 	font-weight: 500;
+ }
+ h2,
+ h5 {
+ 	color: #3b3b3b;
+ }	
+ .case-study p a {
+ 	color: #45ac7d;
+ }
+ #nf-field-1-container, #nf-field-2-container {
+ 	clear:none;
+ 	display: block;
+ 	float: left;
+ 	width: 45%;
+ }
+ #nf-field-1-container {
+ 	margin-right: 5%;
+ }
+ #nf-field-2-container {
+ 	margin-left: 5%;
+ }
+ #nf-field-4 {
+ 	background: none repeat scroll 0 0 #45ac9d;
+ 	color: #fff;
+ 	float:right;
+ 	height: 3rem;
+ 	width: 25%;
+ }
+ #content {
+ 	padding: 0 10%;
+ 	width:80%;
+ }
+ .four-left img {
+ 	float:left;
+ 	margin:30px 30px 0 0 ;
+ }
+ .four-right {
+ 	margin:50px;
+ }
+ .four-wrap {
+ 	display:inline-block;
+ }
+ .four-buttons {
+ 	background: none repeat scroll 0 0 #45ac9d;
+ 	color: #fff;
+ 	float: left;
+ 	height: 1.8em;
+ 	margin: 1em;
+ 	text-align: center;
+ 	width: 20%;
+ }
+ /*---------- Tweet Sidebar Widget ----------*/
+ span.stt-em {
+ 	display: none;
+ }
+ #secondary {
+ 	float: left;
+ 	width:25%;
+ }
+ #secondary h4 {
+ 		margin: 36px 0 12px 18px;
+ 	color: #a6a6a6;
+ 	font-family: 'Montserrat';
+ 	font-size: 16px;
+ 	text-transform: uppercase;
+ 	padding: 0;
+ }
+ #secondary .widget-title {
+ 	margin: 36px 0 12px 18px;
+ 	color: #3b3b3b;
+ }
+ #secondary li {
+ 	padding-left: 0;
+ 	list-style: none;
+ 	font-size: 17px;
+ 	font-weight:200;
+ 	line-height: 1.5;
+ 	margin-bottom: 24px; 
+ }
+.widget {
+ 	padding: 0;
+ }
+#secondary .read-more-link {
+margin-left: 18px;
+}
+
+ /*---------- End Tweet Sidebar Widget ----------*/

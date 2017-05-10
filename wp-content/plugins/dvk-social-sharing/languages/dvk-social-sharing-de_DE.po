@@ -1,0 +1,75 @@
+# Andreas Kuhl <mail@andreas-kuhl.de>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Sharing by Danny\n"
+"POT-Creation-Date: 2013-11-20 21:50+0100\n"
+"PO-Revision-Date: 2014-04-25 15:29+0100\n"
+"Last-Translator: Andreas Kuhl <mail@andreas-kuhl.de>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././includes/class-admin.php:36 .././includes/views/settings-page.php:11
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: .././includes/template-functions.php:29
+msgid "on Twitter"
+msgstr "via Twitter"
+
+#: .././includes/template-functions.php:33
+msgid "on Facebook"
+msgstr "auf Facebook"
+
+#: .././includes/template-functions.php:37
+msgid "on Google+"
+msgstr "auf Google+"
+
+#: .././includes/views/settings-page.php:17
+msgid "Text before links"
+msgstr "Text for den Links"
+
+#: .././includes/views/settings-page.php:21
+msgid "The text to show before the sharing links."
+msgstr "Der Text, der vor den Teilen-Links angezeigt wird."
+
+#: .././includes/views/settings-page.php:27
+msgid "Auto-add sharing links?"
+msgstr "Teilen-Links automatisch hinzufügen?"
+
+#: .././includes/views/settings-page.php:33
+msgid "Automatically adds the sharing links to the end of posts."
+msgstr "Fügt Teilen-Links automatisch am Ende von Beiträgen hinzu."
+
+#: .././includes/views/settings-page.php:39
+msgid "Load Icon CSS?"
+msgstr "Icon CSS Laden?"
+
+#: .././includes/views/settings-page.php:45
+msgid "Adds simple but pretty icons to the sharing links."
+msgstr "Fügt den Teilen-Links einfache aber hübsche Icons hinzu."
+
+#: .././includes/views/settings-page.php:51
+msgid "Icon Size"
+msgstr "Icon-Größe"
+
+#: .././includes/views/settings-page.php:63
+msgid "Load Pop-Up JS?"
+msgstr "Pop-Up Javascript laden?"
+
+#: .././includes/views/settings-page.php:75
+msgid "Twitter Username"
+msgstr "Twitter Benutzername"
+
+#: .././includes/views/settings-page.php:79
+msgid "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+msgstr ""
+"Gib dies an, wenn Du den Tweets \"via @deinTwitterBenutzername\" "
+"voranstellen möchtest."

@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Sharing by Danny\n"
+"POT-Creation-Date: 2014-12-31 12:46+0200\n"
+"PO-Revision-Date: 2014-12-31 12:49+0200\n"
+"Last-Translator: A-P Koponen / Versi <info@versi.fi>\n"
+"Language-Team: Versi <info@versi.fi>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././includes/class-admin.php:91 .././includes/views/settings-page.php:19
+msgid "Settings"
+msgstr "Asetukset"
+
+#: .././includes/template-functions.php:23
+msgid "on Twitter"
+msgstr "Twitterissä"
+
+#: .././includes/template-functions.php:24
+msgid "on Facebook"
+msgstr "Facebookissa"
+
+#: .././includes/template-functions.php:25
+msgid "on Google+"
+msgstr "Google+"
+
+#: .././includes/views/settings-page.php:13
+msgid "by"
+msgstr "by"
+
+#: .././includes/views/settings-page.php:25
+msgid "Text before links"
+msgstr "Teksti ennen linkkejä"
+
+#: .././includes/views/settings-page.php:29
+msgid "The text to show before the sharing links."
+msgstr "Teksti, joka näytetään ennen jakolinkkejä."
+
+#: .././includes/views/settings-page.php:35
+msgid "Automatically add sharing links?"
+msgstr "Lisää jakolinkit automaattisesti?"
+
+#: .././includes/views/settings-page.php:42
+#, php-format
+msgid " Auto add to %s"
+msgstr "Lisää automaattisesti %s"
+
+#: .././includes/views/settings-page.php:48
+msgid ""
+"Automatically adds the sharing links to the end of the selected post types."
+msgstr "Automaattisesti lisää jakolinkit valittujen sisältöjen loppuun."
+
+#: .././includes/views/settings-page.php:54
+msgid "Load Icon CSS?"
+msgstr "Lataa ikonien CSS?"
+
+#: .././includes/views/settings-page.php:57
+#: .././includes/views/settings-page.php:81
+msgid "Yes"
+msgstr "Kyllä"
+
+#: .././includes/views/settings-page.php:58
+#: .././includes/views/settings-page.php:82
+msgid "No"
+msgstr "Ei"
+
+#: .././includes/views/settings-page.php:60
+msgid "Adds simple but pretty icons to the sharing links."
+msgstr "Lisää yksinkertaiset, mutta kauniit ikonit jakolinkkeihin."
+
+#: .././includes/views/settings-page.php:66
+msgid "Icon Size"
+msgstr "Ikonin koko"
+
+#: .././includes/views/settings-page.php:70
+msgid "Small"
+msgstr "Pieni"
+
+#: .././includes/views/settings-page.php:70
+#: .././includes/views/settings-page.php:71
+msgid "pixels"
+msgstr "pikseliä"
+
+#: .././includes/views/settings-page.php:71
+msgid "Normal"
+msgstr "Normaali"
+
+#: .././includes/views/settings-page.php:78
+msgid "Load Pop-Up JS?"
+msgstr "Lataa Pop-up JS?"
+
+#: .././includes/views/settings-page.php:84
+msgid ""
+"A small JavaScript file of just 600 bytes so people won't have to leave your "
+"website to share."
+msgstr ""
+"Pieni JavaScript-tiedosto (600 tavua), jotta ihmisten ei tarvitse poistua "
+"sivustolta jakaakseen."
+
+#: .././includes/views/settings-page.php:90
+msgid "Twitter Username"
+msgstr "Twitter käyttäjänimi"
+
+#: .././includes/views/settings-page.php:94
+msgid "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+msgstr ""
+"Aseta tämä, jos haluat lisätä \"via @TwitterKäyttäjänimi\" twiitteihin."
+
+#: .././includes/views/settings-page.php:112
+msgid "Donate $10, $20 or $50"
+msgstr "Lahjoita $10, $20 tai $50"
+
+#: .././includes/views/settings-page.php:113
+msgid ""
+"If you like this plugin, consider supporting it by donating a token of your "
+"appreciation."
+msgstr "Jos pidät tästä lisäosasta, harkitse sen tukemista lahjoittamalla."
+
+#: .././includes/views/settings-page.php:114
+msgid "Donate with PayPal"
+msgstr "Lahjoita PayPalilla"
+
+#: .././includes/views/settings-page.php:117
+msgid "Some other ways to support this plugin"
+msgstr "Muita tapoja tukea lisäosaa"
+
+#: .././includes/views/settings-page.php:119
+#, php-format
+msgid "Leave a %s review on WordPress.org"
+msgstr "Jätä %s arvostelu WordPress.orgissa"
+
+#: .././includes/views/settings-page.php:121
+msgid "Vote \"works\" on the WordPress.org plugin page"
+msgstr "Äänestä \"toimii\" WordPress.org lisäosasivulla"
+
+#: .././includes/views/settings-page.php:126
+msgid "Looking for support?"
+msgstr "Tarvitsetko tukea?"
+
+#: .././includes/views/settings-page.php:127
+#, php-format
+msgid "Please use the %splugin support forums%s on WordPress.org."
+msgstr "Ole hyvä ja käytä %slisaosan tukifoorumeita%s WordPress.orgissa."
